@@ -1,0 +1,21 @@
+{
+  "name": "theme-sf",
+  "displayName": "THEME_SF",
+  "description": "Test theme for VSCODE",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Seafoam",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Seafoam-color-theme.json"
+      }
+    ]
+  }
+}
