@@ -2,7 +2,7 @@
   "name": "theme-sf",
   "displayName": "THEME_SF",
   "description": "Test theme for VSCODE. Based on Seafoam Pastel on (https://windowsterminalthemes.dev).",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "ScottishPuffin",
   "repository": {
     "type": "git",
