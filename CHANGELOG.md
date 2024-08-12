@@ -1,9 +1,10 @@
 # Change Log
 
-All notable changes to the "theme-sf" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
 ## [Unreleased]
 
 - Initial release
+
+## [Minor]
+
+- Changed cursor to add more contrast with background and surrounding text.
+- Fixed some colours by added transparancy.
