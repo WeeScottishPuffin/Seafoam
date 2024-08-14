@@ -1,12 +1,12 @@
 {
   "name": "theme-sf",
-  "displayName": "THEME_SF",
+  "displayName": "Seafoam",
   "description": "Test theme for VSCODE. Based on Seafoam Pastel on (https://windowsterminalthemes.dev).",
   "version": "1.2.3",
   "publisher": "ScottishPuffin",
   "repository": {
     "type": "git",
-    "url": "https://github.com/WeeScottishPuffin/theme-sf"
+    "url": "https://github.com/WeeScottishPuffin/Seafoam"
   },
   "engines": {
     "vscode": "^1.91.0"
