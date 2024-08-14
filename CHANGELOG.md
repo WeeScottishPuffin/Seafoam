@@ -13,3 +13,4 @@
 
 - Added text to README.md
 - Updated changelog
+- Added icon
