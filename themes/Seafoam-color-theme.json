@@ -961,14 +961,14 @@
         "name": "Regular Expressions",
         "scope": "string.regexp",
         "settings": {
-          "foreground": "#ade0e0"
+          "foreground": "#ada16d"
         }
       },
       {
         "name": "Escape Characters",
         "scope": "constant.character.escape",
         "settings": {
-          "foreground": "#ade0e0"
+          "foreground": "#ada16d"
         }
       },
       {

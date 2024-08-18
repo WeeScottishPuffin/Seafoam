@@ -20,3 +20,8 @@
 
 - Fixed some metadata
 - Fixed changelog
+
+## [1.2.5]
+
+- Round logo
+- Increased contrast between escape characters and strings
